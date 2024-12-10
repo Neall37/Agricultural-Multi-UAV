@@ -8,5 +8,5 @@ Experimental results demonstrate optimal coverage patterns with minimal steps in
 
 The system shows particular strength in generating efficient straight-line trajectories, demonstrating significant improvements over traditional methods and suggesting broader applications for this distance field-based architecture in multi-agent systems beyond coverage and agricultural scenarios.
 
-<img src="images/pipeline.png" width="500" height="500" alt="Image text">
+<img src="images/pipeline.png" alt="Image text">
 
