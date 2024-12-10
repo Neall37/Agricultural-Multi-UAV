@@ -3,7 +3,7 @@ import torch.nn as nn
 import numpy as np
 import random
 import torch.optim as optim
-from conv_deeper import QNet
+from conv import QNet
 from scipy.ndimage import distance_transform_edt, zoom
 
 
