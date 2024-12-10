@@ -10,3 +10,12 @@ The system shows particular strength in generating efficient straight-line traje
 
 <img src="images/pipeline.png" alt="Image text">
 
+# Usage
+
+## Training
+
+To train the framework, run 
+
+```
+experiment.py
+```
