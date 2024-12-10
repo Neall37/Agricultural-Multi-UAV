@@ -17,5 +17,5 @@ The system shows particular strength in generating efficient straight-line traje
 To train the framework, run 
 
 ```
-experiment.py
+python experiment.py
 ```
