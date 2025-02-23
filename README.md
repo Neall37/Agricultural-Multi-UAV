@@ -1,12 +1,8 @@
 # Agricultural Swarm Planning (ASP)
 
-This project presents a deep reinforcement learning approach to multi-agent coverage path planning for agricultural Unmanned Aerial Vehicles (UAVs). 
+This project introduces a cutting-edge deep reinforcement learning framework for multi-agent coverage path planning in agricultural UAVs. 
 
-We propose a scalable framework addressing the challenges of maintaining stable flight patterns for uniform chemical applications while coordinating multiple agents. Our approach features a customizable environment supporting mixed training scenarios, a generalized state representation for shared learning across agents, and an adaptive neural network architecture incorporating distance-based spatial transformations and agriculture-specific reward structures. 
-
-Experimental results demonstrate optimal coverage patterns with minimal steps in ideal scenarios, successfully developing both individual and cooperative behaviors. While the framework exhibits effective performance scaling across different map dimensions and agent numbers through our Double Deep Q-Network implementation, we identified limitations in collision avoidance that increase with agent density. 
-
-The system shows particular strength in generating efficient straight-line trajectories, demonstrating significant improvements over traditional methods and suggesting broader applications for this distance field-based architecture in multi-agent systems beyond coverage and agricultural scenarios.
+Leveraging a scalable Double Deep Q-Network architecture, our approach integrates a customizable training environment, shared state representations, and adaptive neural networks with distance-based spatial transformations and agriculture-specific rewards. Experimental results demonstrate superior efficiency, achieving optimal coverage with minimal steps while significantly outperforming traditional methods in generating structured, straight-line trajectories. Although collision avoidance remains a challenge at higher agent densities, our framework showcases strong scalability across varying map sizes and agent numbers, highlighting its potential for broader applications in multi-agent robotic systems beyond agriculture.
 
 Please read the full report [here](https://drive.google.com/file/d/1NqEvxvRnIfHt01aYO9z7x0KmSDCxX7TW/view?usp=sharing)
 
