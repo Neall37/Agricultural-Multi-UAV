@@ -1,4 +1,4 @@
-# Agricultural Swarm Planning (ASP)
+# Agricultural-Multi-UAV
 
 This project introduces a cutting-edge deep reinforcement learning framework for multi-agent coverage path planning in agricultural UAVs. 
 
